@@ -15,7 +15,7 @@
  * Ex. : "nexchat-20260530-v1" → "nexchat-20260530-v2" si 2 déploiements le même jour.
  * Sans ce changement, les appareils continuent de servir l'ancienne version depuis le cache.
  */
-const CACHE_NAME = "nexchat-20260530-v1";
+const CACHE_NAME = "nexchat-20260530-v2";
 
 /**
  * Assets à précacher lors de l'install.
