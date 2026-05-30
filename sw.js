@@ -9,7 +9,7 @@
 
 // ─── CONFIG ────────────────────────────────────────────────────────────────
 
-const CACHE_NAME = "nexchat-v1";
+const CACHE_NAME = "nexchat-v2";
 
 /**
  * Assets à précacher lors de l'install.
